@@ -4,7 +4,7 @@
   "description": "BlueBirdMC's RakNet library",
   "main": "src/RakNet.js",
   "dependencies": {
-    "bbmc-binarystream": "github:MFDGaming/BBMC-BinaryStream"
+    "bbmc-binarystream": "github:MFDGaming/BBMC-BinaryStream",
     "js-inet": "^0.2.0"
   },
   "scripts": {
